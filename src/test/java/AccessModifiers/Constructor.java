@@ -7,4 +7,5 @@ public class Constructor {
   int d=35;
   int e=40;
   int f=40;
+  int g=50;
 }
