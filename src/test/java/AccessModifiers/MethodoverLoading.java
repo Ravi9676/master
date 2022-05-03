@@ -7,4 +7,13 @@ public class MethodoverLoading {
     int d=30;
     int e=60;
     int g=100;
+    
+    
+    
+    
+    
+    
+    
+    
+    int z=20;
 }
