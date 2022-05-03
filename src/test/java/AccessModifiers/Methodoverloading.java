@@ -8,4 +8,6 @@ public class Methodoverloading {
     int e=50;
 
     int f=60;
+    int g=70;
+
 }
