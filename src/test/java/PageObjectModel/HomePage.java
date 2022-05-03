@@ -13,7 +13,7 @@ public class HomePage {
     }
     public MobilesPage clickonmobileslink()
     {
-        driver=new ChromeDriver();
+
         driver.get("https://www.amazon.in/");
         driver.manage().window().maximize();
         driver.findElement(By.xpath("//a[text()='Mobiles']")).click();
