@@ -11,4 +11,6 @@ public class MethodoverLoading {
     int h=90;
     int k=80;
     String s="master";
+    int z=90;
+    String s2="Scrum";
 }
