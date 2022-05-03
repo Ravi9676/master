@@ -7,15 +7,5 @@ public class MethodoverLoading {
     int d=30;
     int e=60;
     int f=100;
-    int k=90;
-    int l=9;
-
-
-
-
-
-
-
-
-    int z=20;
+    int g=100;
 }
