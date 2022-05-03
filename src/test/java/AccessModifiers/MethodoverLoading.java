@@ -8,4 +8,7 @@ public class MethodoverLoading {
     int e=60;
     int f=100;
     int g=100;
+    int h=90;
+    int k=80;
+    String s="master";
 }
