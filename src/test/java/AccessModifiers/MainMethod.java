@@ -11,5 +11,6 @@ public class MainMethod {
         ProtectedExample obj2=new ProtectedExample();
         int l=obj2.a;
         System.out.println(l);
+        //adding code
     }
 }
