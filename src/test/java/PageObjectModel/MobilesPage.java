@@ -12,9 +12,10 @@ public class MobilesPage {
     public void selectoneplus(){
         driver.findElement(By.xpath("//span[text()='OnePlus']/..//i")).click();
     }
-    public ResultsPage clickonfirstitem(){
+    public String clickonfirstitem(){
+        String text=driver.findElement(By.xpath("//div[@data-cel-widget='MAIN-SEARCH_RESULTS-1']//h2//span")).getText();
         driver.findElement(By.xpath("//div[@data-cel-widget='MAIN-SEARCH_RESULTS-1']//h2//span")).click();
-        return new ResultsPage();
+        return  text;
 
     }
 }
