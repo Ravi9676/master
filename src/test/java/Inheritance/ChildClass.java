@@ -3,17 +3,17 @@ package Inheritance;
 import net.bytebuddy.implementation.bind.annotation.Super;
 
 public class ChildClass  extends ParentClass{
-
+    int a=super.addition();
     public ChildClass(int a) {
         super(a);
 
     }
     public int child(){
-        int a=super.addition();
+        //a=super.addition();
         int b=a+10;
        return b;
     }
-    public int add(int a){
+    public int add(int c){
         int b=a+10;
              return b;
     }
