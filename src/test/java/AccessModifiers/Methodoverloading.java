@@ -1,15 +1,18 @@
 package AccessModifiers;
 
-public class Methodoverloading {
+public class MethodoverLoading {
     int a=10;
-    int b=20;
-    int c=30;
-    int d=40;
-    int e=50;
-
-    int f=60;
-    int g=70;
-    int h=80;
-    int i=90;
-
+    int b=10;
+    int c=20;
+    int d=30;
+    int e=60;
+    int f=100;
+    int g=100;
+    int h=90;
+    int k=80;
+    String s="master";
+    int z=90;
+    String s2="Scrum";
+    String a1="66";
+    String a3="90";
 }
