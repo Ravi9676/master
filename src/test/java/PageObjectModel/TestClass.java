@@ -13,6 +13,7 @@ public class TestClass {
         mpage.selectoneplus();
         Thread.sleep(20000);
         String itemname=mpage.clickonfirstitem();
+        Thread.sleep(20000);
         boolean result=rspage.verifyResult(itemname);
         if(result==false){
             System.out.println("Test case failed");

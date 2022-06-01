@@ -20,6 +20,4 @@ public class HomePage {
         return new MobilesPage(driver);
 
     }
-
-
 }

@@ -9,7 +9,9 @@ public class MobilesPage {
         this.driver=driver;
 
     }
-    public void selectoneplus(){
+    public void selectoneplus()
+    {
+
         driver.findElement(By.xpath("//span[text()='OnePlus']/..//i")).click();
     }
     public String clickonfirstitem(){
