@@ -1,3 +1,4 @@
+/*
 package PageObjectModel;
 
 import Pageobject.Baseclass;
@@ -10,3 +11,4 @@ public class ElectronicsTest extends Baseclass {
 
     }
 }
+*/

@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SeleniumOOPSConcepts" />
         <module name="Selenium" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Selenium" target="1.8" />
+      <module name="SeleniumOOPSConcepts" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

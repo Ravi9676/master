@@ -1,3 +1,4 @@
+/*
 package practice;
 
 public class AaClass {
@@ -5,3 +6,4 @@ public class AaClass {
         return new Bbclass();
     }
 }
+*/

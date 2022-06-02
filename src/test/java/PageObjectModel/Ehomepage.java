@@ -1,3 +1,4 @@
+/*
 package PageObjectModel;
 
 import org.openqa.selenium.By;
@@ -12,10 +13,13 @@ public class Ehomepage {
         driver.get("https://www.amazon.in/");
         driver.manage().window().maximize();
         driver.findElement(By.xpath("//a[text()=' Electronics ']")).click();
-        return new Electronicspage (driver);
+     */
+/**//*
+   return new Electronicspage (driver);
     }
 
 
     }
 
 
+*/

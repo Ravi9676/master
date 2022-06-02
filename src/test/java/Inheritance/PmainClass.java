@@ -1,3 +1,4 @@
+/*
 package Inheritance;
 
 import javax.swing.plaf.synth.SynthScrollBarUI;
@@ -17,3 +18,4 @@ public class PmainClass {
 
     }
 }
+*/

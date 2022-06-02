@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Selenium.iml" filepath="$PROJECT_DIR$/Selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeleniumOOPSConcepts/SeleniumOOPSConcepts.iml" filepath="$PROJECT_DIR$/SeleniumOOPSConcepts/SeleniumOOPSConcepts.iml" />
     </modules>
   </component>
 </project>

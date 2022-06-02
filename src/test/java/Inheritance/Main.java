@@ -1,3 +1,4 @@
+/*
 package Inheritance;
 
 public class Main {
@@ -15,3 +16,4 @@ public class Main {
 
     }
 }
+*/

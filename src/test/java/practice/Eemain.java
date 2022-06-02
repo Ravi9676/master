@@ -1,3 +1,4 @@
+/*
 package practice;
 
 public class Eemain {
@@ -6,3 +7,4 @@ public class Eemain {
         obj.Aamethod().Bbmethod().Ccmethod().Ddmethod();
     }
 }
+*/
