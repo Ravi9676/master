@@ -8,14 +8,17 @@ public class Homepage extends BaseClass {
     public WebDriver driver;
     private  static String mobilesxpath="";
     public  Homepage(WebDriver driver){
+
         this.driver=driver;
     }
 
     public void openUrl(String url){
+
         driver.get(url);
     }
 
     public void clickOnMobileslink(){
+
         driver.findElement(By.xpath(mobilesxpath)).click();
     }
 }
